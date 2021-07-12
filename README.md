@@ -1,2 +1,2 @@
 # CMS
- A vuejs and elment CMS
+ A vuejs and element CMS
